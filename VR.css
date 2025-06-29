@@ -1,0 +1,215 @@
+.logo-vr{
+    height: 50px;
+    width: 60px;
+    padding: 5px;
+}
+#vr-link1{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#vr-link2{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#vr-link3{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+#vr-link4{
+    color: #323f4b;
+    font-family: "Roboto";
+}
+.vr-banner-section-container {
+    background-image: url("https://res.cloudinary.com/dddjuplfk/image/upload/v1717916210/vr-banner-bg_z4ctg1.png");
+    background-size: cover;
+    height: 100vh;
+    font-family: "Roboto";
+}
+.vr-banner-heading{
+    font-size: 46px;
+    color: white;
+    font-weight: bold;
+}
+.banner-button{
+    height: 46px;
+    width: 136px;
+    border-radius: 10px;
+    color: white;
+    background-color: #1a2137;
+    border-width: 0px;
+    font-size: 18px;   
+}
+.vr-features-section{
+    font-family: "Roboto";
+}
+.vr-features-section-heading{
+    color: #1f2933;
+    font-size: 36px;
+    font-weight: bold;
+}
+.vr-features-card{
+    text-align: center;
+    margin: 16px;
+}
+.vr-features-image{
+    width: 120px;
+}
+.vr-features-title{
+    font-size: 24px;
+    color: #1f2933;
+    font-weight: 500;
+}
+.vr-features-para{
+    color: #7b8794;
+    font-size: 16px;
+    font-weight: 400;
+}
+.span-heading{
+    color: black;
+    font-style: italic;
+    font-weight: bold;
+}
+.vr-kit-section{
+    background-color: #f9fbfe;
+    font-family: "Roboto";
+}
+.vr-kit-section-heading{
+    color: #1f2933;
+    font-size: 28px;
+    font-weight: 500;
+}
+.vr-kit-image{
+    width: 200px;
+    height: 250px;
+}
+.vr-kit-title{
+    font-size: 20px;
+    color: #323f4b;
+    font-weight: 400;
+}
+.vr-optics-section{
+    background-color: #f9fbfe;
+}
+.vr-optics-image{
+    width: 280px;
+    height: 236px;
+    font-family: "Roboto";
+}
+.vr-optics-heading{
+    color: #1f2933;
+    font-size: 32px;
+    font-weight: bold;
+}
+.vr-optics-para{
+    color: #7b8794;
+    font-size: 20px;
+    font-weight: bold;
+}
+.contact-section{
+    background-color: #222b36;
+}
+.contact-heading{
+    color: white;
+    font-size: 30px;
+    font-weight: bold;
+}
+.contact-image{
+    width: 100%;
+}
+.vr-main-trending-heading{
+    font-family: "Roboto";
+    font-size: 30px;
+    color: #1f2933;
+    font-weight: bold;
+}
+.vr-trending-title{
+    font-family: "Roboto";
+    font-size: 14px;
+    color: #959ead;
+    font-weight: 500;
+}
+.vr-trending-para{
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: 600;
+}
+.read-link{
+    color: #2f6ebd;
+    font-size: 16px;
+    font-weight: 700;
+    font-family: "Roboto";
+}
+.custom-vr{
+    background-color: #1754a1;
+    border: 0px;
+    height: 45px;
+    width: 145px;
+    color: white;
+    border-radius: 5px;
+}
+.products-section-heading{
+    color: #1f2933;
+    font-family: "Roboto";
+    font-size: 24px;
+    font-weight: 800;
+}
+.products-card1{
+    background-image: url("https://res.cloudinary.com/dddjuplfk/image/upload/v1719322671/vr-products-headset-img_xyj4fh.png");
+    background-size: cover;
+    height: 100vh;
+}
+.products-card2{
+    background-image: url("https://res.cloudinary.com/dddjuplfk/image/upload/v1719322684/vr-products-headset-with-controllers-img_xdjoh9.png");
+    background-size: cover;
+    height: 100vh;
+}
+.products-title{
+    color: white;
+    font-family: "Roboto";
+    font-size: 30px;
+    font-weight:lighter;
+}
+.products-price{
+    color: white;
+    font-family: "Roboto";
+    font-size: 16px;
+}
+.footer-vr-section{
+    background-color: #19232d;
+    font-family: "Roboto";
+    color:#5a7184;
+}
+.icon-container{
+    height:50px;
+    width:50px;
+    background-color: #202b36;
+    border-radius: 50%;
+    padding: 14px 20px 24px 14px;
+    margin-right: 10px;
+}
+.icon{
+    font-size: 25px;
+}
+.footer-title{
+    font-size: 24px;
+    font-weight: bold;
+}
+.icon1{
+    font-size: 18px;
+    margin-top: 5px;
+    margin-right: 10px;
+}
+.footer-section-details{
+    font-size: 16px;
+    font-weight: 500;
+}
+.vr-hr-line{
+    background-color:#5a7184;
+    height: 1px;
+    width: 100%;
+}
+.footer-section-para{
+    color: #959ead;
+    font-size: 18px;
+    font-weight: 500;
+}
