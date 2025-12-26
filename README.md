@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-This project is a **demo VR-themed promotional website** demonstrating Virtual Reality features and products. The site includes sections such as Featured VR Capabilities, Product Listings, Trending Blogs, and Contact information — styled using Bootstrap components and custom CSS. :contentReference[oaicite:1]{index=1}
+This project is a **demo VR-themed promotional website** demonstrating Virtual Reality features and products. The site includes sections such as Featured VR Capabilities, Product Listings, Trending Blogs, and Contact information — styled using Bootstrap components and custom CSS. 
 
 It’s a static front-end project ideal for showcasing your skills in web design and responsive layout.
 
@@ -35,16 +35,13 @@ It’s a static front-end project ideal for showcasing your skills in web design
 ---
 
 ## 📁 Project Structure
-
+```
 VR-Website/
 │── index.html
 │── VR.css
 └── assets/
 └── (images used in website)
-
-yaml
-Copy code
-
+```
 ---
 
 ## 🛠️ How to Use / Run Locally
