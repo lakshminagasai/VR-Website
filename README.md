@@ -57,7 +57,9 @@ Double-click index.html
 
 OR serve using a local server (optional)
 
-sh
-Copy code
+```sh
 live-server
 View it in any browser (Chrome, Firefox, etc.).
+📌 Credits
+Created by: Lakshmi Naga Sai Samatham
+Built with ❤️ using Bootstrap & custom CSS
